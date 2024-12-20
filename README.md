@@ -18,7 +18,7 @@ This project is a Java-based Client-Server Chat Application for real-time group 
 - Basic knowledge of Java programming.
 
 ## How to Run
-1. Opent src folder.
+1. Open src folder.
 2. Open terminal from this folder one for the server and as you want for the clients.
 3. Start the server:
    - Run command: `java Server.java`
