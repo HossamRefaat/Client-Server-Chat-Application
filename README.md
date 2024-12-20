@@ -7,7 +7,6 @@ This project is a Java-based Client-Server Chat Application for real-time group 
 - Real-time communication.
 - Supports multiple client connections.
 - Broadcasts messages to all connected clients.
-- Command-line interface for easy use.
 
 ## Components
 1. **Client.java**: Connects to the server, sends user messages, and listens for incoming messages.
@@ -19,13 +18,13 @@ This project is a Java-based Client-Server Chat Application for real-time group 
 - Basic knowledge of Java programming.
 
 ## How to Run
-1. Start the server:
-   - Compile: `javac Server.java`
-   - Run: `java Server`
-2. Connect clients:
-   - Compile: `javac Client.java`
-   - Run: `java Client`
-3. Start chatting by typing messages in the client terminal.
+1. Opent src folder.
+2. Open terminal from this folder one for the server and as you want for the clients.
+3. Start the server:
+   - Run command: `java Server.java`
+4. Connect clients:
+   - Run command: `java Client.java`
+5. Start chatting by typing messages in the client terminal.
 
 ## Project Structure
 . ├── Client.java ├── ClientHandler.java └── Server.java
