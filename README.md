@@ -27,7 +27,9 @@ This project is a Java-based Client-Server Chat Application for real-time group 
 5. Start chatting by typing messages in the client terminal.
 
 ## Project Structure
-. ├── Client.java ├── ClientHandler.java └── Server.java
+. ├── Client.java
+  ├── ClientHandler.java 
+  └── Server.java
 
 ## Example Usage
 1. Start the server: `java Server`
